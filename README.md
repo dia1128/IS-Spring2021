@@ -10,5 +10,8 @@ Created another Convolutional Network from scratch to analyze DogsVsCats dataset
 # FC-Neural-Network
 Created a Fully connected Neural Network to analyze MNIST dataset from scratch.
 
-# HPA
+# HPA-Project
 This project is defined to understand image segmentation. The goal is to segment and classify each cells from microscopic images. This is an ongoing project in Kaggle. 
+
+# Model-Intrepretability-Using-Captum
+Used Captum library to apply gradient based algorithms like DeepLift and Integrated Gradient to understand Model Interpretability or Explainable AI.
