@@ -6,8 +6,11 @@
 * Neurons with respect to inputs
 
 ## Algorithms:
-* Deep Lift
+* DeepLift
 * Integrated Gradient
 * Saliency Map
 * Deep Shap
 * Gradient Shap
+* Smoothgrad Square
+* Layer Integrated Gradient
+* Neuron DeepLift
