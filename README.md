@@ -15,3 +15,6 @@ This project is defined to understand image segmentation. The goal is to segment
 
 # Model-Intrepretability-Using-Captum
 Used Captum library to apply gradient based algorithms like DeepLift and Integrated Gradient to understand Model Interpretability or Explainable AI.
+
+# Writeups
+Added two weekly writeups and presentation that I presented during the class. 
