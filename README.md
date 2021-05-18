@@ -3,3 +3,6 @@ Key learning of this assignment is to understand the mathematical and logical pr
 
 # CNN-Udacity
 Created a Convolutional Neural Network to analyze CIFAR10 dataset. This code was reviewed from Udacity.
+
+# CNN-from-Scratch
+Created another Convolutional Network from scratch to analyze DogsVsCats dataset.
