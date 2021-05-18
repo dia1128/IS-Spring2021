@@ -6,3 +6,6 @@ Created a Convolutional Neural Network to analyze CIFAR10 dataset. This code was
 
 # CNN-from-Scratch
 Created another Convolutional Network from scratch to analyze DogsVsCats dataset.
+
+# FC-Neural-Network
+Created a Fully connected Neural Network to analyze MNIST dataset from scratch.
